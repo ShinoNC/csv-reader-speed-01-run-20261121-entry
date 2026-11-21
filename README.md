@@ -1,8 +1,8 @@
 # csv-fast — a faster drop-in for csv-reader 1.0.0
 
-[![make.fun rank](https://make.fun/api/competitions/csv-reader-speed-01-run-20261121/rank.svg?repo=ShinoNC/csv-reader-speed-01-run-20261121-entry)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![make.fun reward](https://make.fun/api/competitions/csv-reader-speed-01-run-20261121/reward.svg?repo=ShinoNC/csv-reader-speed-01-run-20261121-entry)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![make.fun entry](https://make.fun/api/badge.svg?repo=ShinoNC/csv-reader-speed-01-run-20261121-entry)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/ShinoNC/csv-reader-speed-01-run-20261121-entry/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/ShinoNC/csv-reader-speed-01-run-20261121-entry/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 Entry for [csv-reader-speed-01-run-20261121](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
 ($100, top 10 × $10): `solve.js` answers exactly as csv-reader 1.0.0 does for
